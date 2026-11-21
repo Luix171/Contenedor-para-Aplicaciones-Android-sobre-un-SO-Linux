@@ -1,0 +1,39 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# Temporales y registros
+*.tmp
+*.temp
+*.log
+
+# Editores
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Compilación
+build/
+dist/
+*.o
+*.a
+
+# Máquinas virtuales
+*.vdi
+*.vmdk
+*.vhd
+*.vbox-prev
+
+# Archivos locales
+.env
+.env.*
+!.env.example
