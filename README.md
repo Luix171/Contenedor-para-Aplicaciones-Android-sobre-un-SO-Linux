@@ -1,4 +1,4 @@
-# Android-Edge Sandbox
+# Android-SystemBox
 
 Entorno seguro y contenedor de pruebas para la ejecución de
 aplicaciones Android sobre un sistema operativo Linux.
