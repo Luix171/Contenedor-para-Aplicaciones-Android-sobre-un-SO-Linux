@@ -48,15 +48,7 @@ mediante sockets UNIX.
 Se evaluará el consumo de CPU y memoria, incluyendo
 pruebas controladas de presión de memoria.
 
-## 6. Consideraciones técnicas
-
-La compatibilidad gráfica de Waydroid dentro de VirtualBox
-debe comprobarse experimentalmente.
-
-Los componentes y mecanismos se documentarán según su
-compatibilidad real con la distribución y el kernel elegidos.
-
-## 7. Estado
+## 6. Estado
 
 Documento inicial. Arquitectura pendiente de validación
 durante la implementación.
